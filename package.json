@@ -1,0 +1,15 @@
+{
+  "name": "saucedemo-playwright",
+  "version": "1.0.0",
+  "description": "QA Portfolio - E2E & Integration tests with Playwright on SauceDemo",
+  "scripts": {
+    "test": "playwright test",
+    "test:integration": "playwright test tests/integration/",
+    "test:e2e": "playwright test tests/e2e/",
+    "report": "playwright show-report"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^20.19.37"
+  }
+}
