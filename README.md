@@ -34,7 +34,7 @@ Todos os testes seguem o padrão **AAA (Arrange, Act, Assert)**, garantindo clar
 
 O relatório HTML é gerado automaticamente pelo Playwright após cada execução e publicado via GitHub Pages.
 
-🔗 **[Acessar relatório completo]()**
+🔗 **[Acessar relatório completo](https://daniloabramo.github.io/saucedemo-playwright/)**
 
 ## 🔄 CI/CD Pipeline
 O pipeline é executado automaticamente via GitHub Actions a cada push ou pull request na branch main.
